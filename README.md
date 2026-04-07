@@ -112,7 +112,7 @@ Custo total do circuito: 276
 
 ## Vídeo explicativo
 
-> **Link do vídeo:** 
+> **Link do vídeo:** https://drive.google.com/drive/folders/1avJhjdn2GOjRrwc84z6JAwawW3BZrsYo?usp=sharing
 
 O vídeo apresenta:
 - identificação do grupo e tema do trabalho
