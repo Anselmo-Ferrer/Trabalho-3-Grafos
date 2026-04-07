@@ -9,6 +9,20 @@
 
 ---
 
+## Vídeo explicativo
+
+> **Link do vídeo:** https://drive.google.com/drive/folders/1avJhjdn2GOjRrwc84z6JAwawW3BZrsYo?usp=sharing
+
+O vídeo apresenta:
+- identificação do grupo e tema do trabalho
+- o problema e a instância adotada
+- identificação dos vértices desbalanceados
+- justificativa da eulerização manual
+- explicação da implementação do método de Hierholzer
+- execução completa do programa com leitura comentada da saída
+
+---
+
 ## Problema
 
 O Problema do Carteiro Chinês consiste em encontrar o percurso fechado de menor custo que percorre todas as arestas de um dígrafo ponderado ao menos uma vez. O percurso ótimo existe quando o grafo admite circuito euleriano, ou seja, quando todos os vértices têm grau de entrada igual ao grau de saída.
@@ -107,22 +121,6 @@ Circuito euleriano encontrado:
 
 Custo total do circuito: 276
 ```
-
----
-
-## Vídeo explicativo
-
-> **Link do vídeo:** https://drive.google.com/drive/folders/1avJhjdn2GOjRrwc84z6JAwawW3BZrsYo?usp=sharing
-
-O vídeo apresenta:
-- identificação do grupo e tema do trabalho
-- o problema e a instância adotada
-- identificação dos vértices desbalanceados
-- justificativa da eulerização manual
-- explicação da implementação do método de Hierholzer
-- execução completa do programa com leitura comentada da saída
-
----
 
 ## Estrutura do projeto
 
